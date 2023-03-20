@@ -1,0 +1,15 @@
+C:\ARIADNA\C#\Class_work\task_010\bin\Debug\net6.0\task_010.exe
+C:\ARIADNA\C#\Class_work\task_010\bin\Debug\net6.0\task_010.deps.json
+C:\ARIADNA\C#\Class_work\task_010\bin\Debug\net6.0\task_010.runtimeconfig.json
+C:\ARIADNA\C#\Class_work\task_010\bin\Debug\net6.0\task_010.dll
+C:\ARIADNA\C#\Class_work\task_010\bin\Debug\net6.0\ref\task_010.dll
+C:\ARIADNA\C#\Class_work\task_010\bin\Debug\net6.0\task_010.pdb
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\task_010.csproj.AssemblyReference.cache
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\task_010.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\task_010.AssemblyInfoInputs.cache
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\task_010.AssemblyInfo.cs
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\task_010.csproj.CoreCompileInputs.cache
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\task_010.dll
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\ref\task_010.dll
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\task_010.pdb
+C:\ARIADNA\C#\Class_work\task_010\obj\Debug\net6.0\task_010.genruntimeconfig.cache
