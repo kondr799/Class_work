@@ -41,7 +41,7 @@ void FillMatrix(int[,] matrix, int min, int max)
     }
 }
 
-int[,] CreateUserMatrix();
+int[,] CreateUserMatrix()
 {
     Console.WriteLine("Введите размерность матрицы");
     int[] size = SingleLineInput(2);
@@ -69,10 +69,10 @@ int[,] ReleasMatrix(int[,] matrix)
 Console.Clear();
 int[,] matrix = CreateUserMatrix();
 FillMatrix(matrix, 1, 10);
-PintMatrix(matrix);
+PrintMatrix(matrix);
 if (CheckSizeMatrix(matrix))
 {
-    PrintMatrix(ReleaseMatrix(matrix));
+    PrintMatrix(ReleasMatrix(matrix));
 }
 else
 {
